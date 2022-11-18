@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shohrux Isakov
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested ML,DL,Backend,footbal
+- 🌱 I’m currently learning ML,Backend
+- 💞️ I’m looking to collaborate on ML engineer
 - 📫 How to reach me isakovsh19@gmail.con
 
 <!---
