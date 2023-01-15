@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Shohrux Isakov
-- 👀 I’m interested Footbal,Tennis
+
 - 🎓 I’m currently learning Machine Learning,Deep Learning
+
 - 💞️ I’m looking to collaborate on ML engineer
+
 - 📫 How to reach me isakovsh19@gmail.con
 
 <!---
