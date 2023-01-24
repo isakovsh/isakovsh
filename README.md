@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shohrux Isakov
 
-- 🎓 I’m currently learning Machine Learning,Deep Learning
+- 🎓 I’m currently learning Machine Learning,Deep Learning.
 
 
 
