@@ -11,7 +11,7 @@
 
 I'm a **Data Scientist and AI Engineer** and very passionate about Computer Vision
 
-- 🎓 **Education:** I am studying Bachelor of Computer Engineering at Vistula University in Warsaw. 
+- 🎓 **Education:** I am studying Bachelor of Computer Engineering at Korea International Univercity in Fergana. 
 
 - 😅 **Fun fact:** I like to travel around the world. I visited 6 countries and 7 cities.
 
