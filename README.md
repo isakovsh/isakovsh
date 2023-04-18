@@ -9,13 +9,10 @@
 <h1 align="center"> Hey, I'm Shohrux Isakov👋 </h1>
 
 
-I'm a **Data Scientist and AI Engineer** and very passionate about Computer Vision
+I'm a **Data Scientist and AI Engineer** and very passionate about Computer Vision, Natural Language Processing
 
 - 🎓 **Education:** I am studying Bachelor of Computer Engineering at Korea International Univercity in Fergana. 
 
-- 😅 **Fun fact:** I like to travel around the world. I visited 6 countries and 7 cities.
-
-- 🙂 **Additional:** Do not bother me with NLP😅
 
 <hr>
 
