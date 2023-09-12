@@ -40,39 +40,6 @@ I'm a **Data Scientist and AI Engineer** and very passionate about Computer Visi
 
 
 
-### hey there 
-<a href="https://www.instagram.com/_isakovsh/">
-  <img align="left" alt="Shohrux's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-
-<a href="https://twitter.com/isakovsh">
-  <img align="left" alt="Shohrux Isakov | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/isakovsh/">
-  <img align="left" alt="Shohrux's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
-<br />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=isakovsh&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
